@@ -1,7 +1,0 @@
-to start server:
-
-node server/server.js
-
-to end it simply close terminal
-
-
