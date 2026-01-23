@@ -8,6 +8,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY
 const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent" 
 
 
+
 // Define the prompt template as a constant
 const COMMENT_PROMPT_TEMPLATE = `You are an expert code documentation assistant with years of professional software development experience. Your task is to add high-quality comments to the provided code. ALL YOUR COMMENTS FOLLOW THE CODE FILE'S FORMAT FOR COMMENTS.
 
